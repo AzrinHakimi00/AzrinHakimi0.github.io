@@ -1,0 +1,113 @@
+[
+    {
+      "question": "What is the primary greenhouse gas responsible for climate change?",
+      "answers": {
+        "ans1": "CO2",
+        "ans2": "CH4",
+        "ans3": "N2O",
+        "ans4": "O3"
+      },
+      "correctAnswer": "CO2",
+      "trivia": "Carbon dioxide is the most prevalent greenhouse gas, primarily released through human activities."
+    },
+    {
+      "question": "Which international agreement aims to address climate change by limiting global warming?",
+      "answers": {
+        "ans1": "Kyoto Protocol",
+        "ans2": "Paris Agreement",
+        "ans3": "Copenhagen Accord",
+        "ans4": "Montreal Protocol"
+      },
+      "correctAnswer": "Paris Agreement",
+      "trivia": "The Paris Agreement, adopted in 2015, focuses on reducing greenhouse gas emissions and adapting to climate change."
+    },
+    {
+      "question": "What is the role of renewable energy in mitigating climate change?",
+      "answers": {
+        "ans1": "Increase greenhouse gas emissions",
+        "ans2": "Accelerate deforestation",
+        "ans3": "Contribute to air pollution",
+        "ans4": "Reduce dependence on fossil fuels"
+      },
+      "correctAnswer": "Reduce dependence on fossil fuels",
+      "trivia": "Renewable energy sources help reduce reliance on fossil fuels, contributing to lower carbon emissions."
+    },
+    {
+      "question": "Which action is considered a sustainable practice in agriculture to combat climate change?",
+      "answers": {
+        "ans1": "Slash-and-burn farming",
+        "ans2": "Monoculture farming",
+        "ans3": "Agroforestry",
+        "ans4": "Overuse of chemical fertilizers"
+      },
+      "correctAnswer": "Agroforestry",
+      "trivia": "Agroforestry involves integrating trees into agricultural landscapes, providing ecological benefits and carbon sequestration."
+    },
+    {
+      "question": "What does the term 'carbon footprint' measure?",
+      "answers": {
+        "ans1": "Footprints left by carbonated beverages",
+        "ans2": "Total emissions of an individual or organization",
+        "ans3": "Marks on the ground caused by carbonated soil",
+        "ans4": "Carbonated foot massages"
+      },
+      "correctAnswer": "Total emissions of an individual or organization",
+      "trivia": "The carbon footprint measures the total amount of greenhouse gases emitted by human activities."
+    },
+    {
+      "question": "Which gas is known as a short-lived climate pollutant with a high global warming potential?",
+      "answers": {
+        "ans1": "CO2",
+        "ans2": "CH4",
+        "ans3": "N2O",
+        "ans4": "HFCs"
+      },
+      "correctAnswer": "HFCs",
+      "trivia": "Hydrofluorocarbons (HFCs) are synthetic gases used in refrigeration and have a high global warming potential."
+    },
+    {
+      "question": "What is the concept of 'carbon offsetting' in the context of climate action?",
+      "answers": {
+        "ans1": "Increasing carbon emissions",
+        "ans2": "Balancing carbon emissions with carbonated beverages",
+        "ans3": "Reducing emissions to compensate for unavoidable emissions",
+        "ans4": "Carbonating the atmosphere"
+      },
+      "correctAnswer": "Reducing emissions to compensate for unavoidable emissions",
+      "trivia": "Carbon offsetting involves investing in projects that reduce or capture greenhouse gas emissions to balance unavoidable emissions."
+    },
+    {
+      "question": "Which biome is considered a significant carbon sink, absorbing and storing large amounts of carbon dioxide?",
+      "answers": {
+        "ans1": "Desert",
+        "ans2": "Rainforest",
+        "ans3": "Tundra",
+        "ans4": "Grassland"
+      },
+      "correctAnswer": "Rainforest",
+      "trivia": "Rainforests play a crucial role as carbon sinks, absorbing and storing large amounts of carbon dioxide through photosynthesis."
+    },
+    {
+      "question": "What is the impact of ocean acidification on marine ecosystems?",
+      "answers": {
+        "ans1": "Promotes coral growth",
+        "ans2": "Has no effect on marine life",
+        "ans3": "Adversely affects marine life, especially coral reefs and shell-forming organisms",
+        "ans4": "Increases fish population"
+      },
+      "correctAnswer": "Adversely affects marine life, especially coral reefs and shell-forming organisms",
+      "trivia": "Ocean acidification, caused by increased carbon dioxide absorption, poses a threat to marine life, particularly organisms relying on calcium carbonate for their skeletons and shells."
+    },
+    {
+      "question": "Which international event brings together world leaders to discuss and negotiate global climate policies?",
+      "answers": {
+        "ans1": "World Cup",
+        "ans2": "Olympic Games",
+        "ans3": "COP (Conference of the Parties)",
+        "ans4": "G7 Summit"
+      },
+      "correctAnswer": "COP (Conference of the Parties)",
+      "trivia": "COP is an annual conference where nations discuss and negotiate actions to address climate change and implement international agreements."
+    }
+  ]
+  
