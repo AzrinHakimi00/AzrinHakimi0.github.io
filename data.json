@@ -1,0 +1,12 @@
+{
+    "question": "Which of the following is the greenhouse gas?",
+    "answers": {
+      "ans1": "CO2",
+      "ans2": "CH4",
+      "ans3": "Water vapor",
+      "ans4": "All of the above"
+    },
+    "correctAnswer": "CO2",
+    "trivia": "Greenhouse gases may be a result of natural occurrence or human activity. These gases include carbon dioxide (CO2), methane (CH4), water vapor, nitrous oxide (N2O), and ozone (O3). Fluorinated gases are also considered to be greenhouse gases. Greenhouse gases act like a heat-trapping blanket, making the Earth habitable for humans. However, human activities have increased emissions of greenhouse gases into the atmosphere beyond what the Earth can support, resulting in climate change."
+  }
+  
